@@ -1,6 +1,7 @@
 # Data Science Machine Learning Project
 by Dustin Harrison White 
 
+![map](https://ourworldindata.org/images/published/daily-per-capita-caloric-supply.png)
 ## Predicting Obesity 
 
 - Downloaded health and demographic indicators data using StatsCan and cleaned data.  
