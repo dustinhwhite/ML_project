@@ -8,3 +8,10 @@ by Dustin Harrison White
 - Encoded categorical data points in ordenal format and fitted into Classification models to predict 'Obesity' target.
 - Models include Logistic Regression, Decision Trees, Random Forest, XGBoost, and SVM.
 
+
+
+
+
+
+
+Completed March 1st, 2024
